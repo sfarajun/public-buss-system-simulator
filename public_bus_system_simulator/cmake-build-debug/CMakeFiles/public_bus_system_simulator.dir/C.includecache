@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/public_bus_system_simulator/bus_system.h
+
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/public_bus_system_simulator/file_functions.c
+stdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+bus_system.h
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/public_bus_system_simulator/bus_system.h
+
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/public_bus_system_simulator/pointer_functions.c
+stdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+bus_system.h
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/public_bus_system_simulator/bus_system.h
+
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/public_bus_system_simulator/public_bus_system_simulator.c
+stdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+bus_system.h
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/public_bus_system_simulator/bus_system.h
+
